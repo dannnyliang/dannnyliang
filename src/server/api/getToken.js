@@ -1,6 +1,9 @@
 import "https://deno.land/x/dotenv/load.ts";
 
-export default async function (code) {
+export default async function ({ request, response }) {
+  const reqBody = request.body({ type: 'json' })
+  const { code } = await reqBody.value
+
   const { BASIC_AUTHORIZATION_CODE } = Deno.env.toObject();
 
   const headers = new Headers();
@@ -19,12 +22,18 @@ export default async function (code) {
     redirect: "follow",
   };
 
-  const response = await fetch(
+  await fetch(
     "https://accounts.spotify.com/api/token",
     requestOptions
   )
     .then((response) => response.json())
-    .catch((error) => console.error("error", error));
-
-  return response;
+    .then((token) => {
+      response.status = 200
+      response.body = token
+    })
+    .catch((error) => {
+      console.error("error", error)
+      response.status = 404
+      response.body = { message: error }
+    });
 }

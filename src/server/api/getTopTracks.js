@@ -1,4 +1,12 @@
-export default async function (accessToken) {
+export default async function ({ request, response }) {
+  const accessToken = request.headers.get('access_token')
+
+  if (!accessToken) {
+    response.status = 404
+    response.body = { message: `access_token is not provided` }
+    return
+  }
+
   const headers = new Headers();
   headers.append("Authorization", `Bearer ${accessToken}`);
 
@@ -10,7 +18,7 @@ export default async function (accessToken) {
 
   const limit = 5
 
-  const response = await fetch(
+  const responseData = await fetch(
     /** {@link https://developer.spotify.com/documentation/web-api/reference/personalization/get-users-top-artists-and-tracks/} */
     `https://api.spotify.com/v1/me/top/tracks?limit=${limit}`,
     requestOptions
@@ -20,9 +28,12 @@ export default async function (accessToken) {
       throw error;
     });
 
-  if (response.error) {
-    throw response.error
+  if (responseData.error) {
+    response.status = 404
+    response.body = { message: error }
+    return
   }
 
-  return response;
+  response.status = 200
+  response.body = responseData
 }
