@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/stair.jpeg">
+<img width="100%" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/stair.jpeg">
 <p align='center'>
   <a href="https://www.facebook.com/dannnyliang">
     <img height="30" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/facebook.png">
@@ -16,9 +16,11 @@
 </p>
 
 <!--  Intro Section -->
-Hi there 👋 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat, nulla quis fermentum eleifend, nibh urna tincidunt quam, vel sodales diam sem in augue. Maecenas lacinia mi enim, ac fermentum
+
+Hi there 👋 Client Version
 
 Sharing my favorite tracks and artists. Welcome to follow my playlist.
+
 <!--  Intro Section -->
 
 <br />
@@ -27,26 +29,26 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist.
 <p align='center'>
 <ruby>
 <!--  No.4 -->
-  <a href="https://open.spotify.com/track/4oQnPyy2nHdAKZmdhVSX4H">
-    <img width="140" src="https://i.scdn.co/image/ab67616d0000b2732ff4fab4c3434afe31a0e247">
+  <a href="https://open.spotify.com/track/1Z7n4tMQlfNpQzGmVP9TwA">
+    <img width="140" src="https://i.scdn.co/image/ab67616d0000b273176b10a1657ce0a362480680">
   </a><!--  No.2 -->
+  <a href="https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB">
+    <img width="170" src="https://i.scdn.co/image/ab67616d0000b273656d17184f33544caeae3511">
+  </a><!--  No.1 -->
+  <a href="https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh">
+    <img width="200" src="https://i.scdn.co/image/ab67616d0000b2738c9cd259d43ab3c5e6af8a8a">
+  </a><!--  No.3 -->
   <a href="https://open.spotify.com/track/6oKeVXkFW8W91cyoWVgRHE">
     <img width="170" src="https://i.scdn.co/image/ab67616d0000b2737a57c79de5138d173331183d">
-  </a><!--  No.1 -->
-  <a href="https://open.spotify.com/track/2HAnzQylxHwAEZWEWYfO24">
-    <img width="200" src="https://i.scdn.co/image/ab67616d0000b273b23d011101b874d8c82bc408">
-  </a><!--  No.3 -->
-  <a href="https://open.spotify.com/track/7ioVfdcthcbdpZjUIsJfRB">
-    <img width="170" src="https://i.scdn.co/image/ab67616d0000b273170759124c0e2efbe5bd547d">
   </a><!--  No.5 -->
-  <a href="https://open.spotify.com/track/3hQggci1I7XAq5tUYH3sMp">
-    <img width="140" src="https://i.scdn.co/image/ab67616d0000b27319195833e63c7aaa8cebf58a">
+  <a href="https://open.spotify.com/track/5cLC6HJUMx7lgz3m7x7UtP">
+    <img width="140" src="https://i.scdn.co/image/ab67616d0000b2736cf5ad0d51fd4ba1a49779a5">
   </a>
   <rt>🎗 🥈 🥇 🥉 🎗</rt>
 </ruby>
 </p>
 
-<p align='center'><a href='https://open.spotify.com/track/2HAnzQylxHwAEZWEWYfO24'>深淵 (feat. MC耀宗)</a> - <em>Soul.E, MC 耀宗</em></p><p align='center'><a href='https://open.spotify.com/track/6oKeVXkFW8W91cyoWVgRHE'>Sunsets - Pt. 2</a> - <em>SG Lewis</em></p><p align='center'><a href='https://open.spotify.com/track/7ioVfdcthcbdpZjUIsJfRB'>睡不著</a> - <em>?te</em></p><p align='center'><a href='https://open.spotify.com/track/4oQnPyy2nHdAKZmdhVSX4H'>慢走不送</a> - <em>J.Sheon, Eve Ai, Morrison 馬仕釗</em></p><p align='center'><a href='https://open.spotify.com/track/3hQggci1I7XAq5tUYH3sMp'>女士優先</a> - <em>老莫 ILL MO, ?te</em></p>
+<p align='center'><a href='https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh'>Miracle</a> - <em>Caravan Palace</em></p><p align='center'><a href='https://open.spotify.com/track/0UtSPZyW63m5ZHODCwhakB'>アメヲマツ、</a> - <em>美波</em></p><p align='center'><a href='https://open.spotify.com/track/6oKeVXkFW8W91cyoWVgRHE'>Sunsets - Pt. 2</a> - <em>SG Lewis</em></p><p align='center'><a href='https://open.spotify.com/track/1Z7n4tMQlfNpQzGmVP9TwA'>Scales</a> - <em>OWEL</em></p><p align='center'><a href='https://open.spotify.com/track/5cLC6HJUMx7lgz3m7x7UtP'>5:10a.m.</a> - <em>傻子與白痴</em></p>
 
 <br />
 
@@ -54,24 +56,24 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist.
 <p align='center'>
 <ruby>
 <!--  No.4 -->
-  <a href="https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb">
-    <img width="140" src="https://i.scdn.co/image/c35d749ca21ac90c2ac9d31170bffb527f617d14">
+  <a href="https://open.spotify.com/artist/1A8xiGywRrptx8atvxDqBZ">
+    <img width="140" src="https://i.scdn.co/image/ab67616d0000b27348222d03af082a154b7c303c">
   </a><!--  No.2 -->
-  <a href="https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF">
-    <img width="170" src="https://i.scdn.co/image/74186cb20ba9ee3da9de40b213054edad8e433c6">
+  <a href="https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY">
+    <img width="170" src="https://i.scdn.co/image/f8fe438efbda401e4e40dd66abdbd87dcfe6e539">
   </a><!--  No.1 -->
-  <a href="https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m">
-    <img width="200" src="https://i.scdn.co/image/ab67616d0000b27396aa00a88e416064e7c8e5e3">
+  <a href="https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP">
+    <img width="200" src="https://i.scdn.co/image/5e39775d5e5a0cc602367e9d9d32e189fb10a296">
   </a><!--  No.3 -->
-  <a href="https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd">
-    <img width="170" src="https://i.scdn.co/image/bcad4bbfda651ee0235a36b418de319f5b9de3c2">
-  </a><!--  No.5 -->
   <a href="https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ">
-    <img width="140" src="https://i.scdn.co/image/adc8c619e766119fabd784a257d6376a653d41ea">
+    <img width="170" src="https://i.scdn.co/image/adc8c619e766119fabd784a257d6376a653d41ea">
+  </a><!--  No.5 -->
+  <a href="https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G">
+    <img width="140" src="https://i.scdn.co/image/061f492bfd3ed1130cc7d31a7cac16caf01a4c68">
   </a>
   <rt>🎗 🥈 🥇 🥉 🎗</rt>
 </ruby>
 </p>
 
-<p align='center'><em><a href='https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m'>Kenichiro Nishihara</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF'>Night Tempo</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd'>Khalil Fong</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb'>?te</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ'>Caravan Palace</a></em></p>
+<p align='center'><em><a href='https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP'>Leo王</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY'>YOSA & TAAR</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ'>Caravan Palace</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/1A8xiGywRrptx8atvxDqBZ'>詹森淮</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G'>美波</a></em></p>
   
