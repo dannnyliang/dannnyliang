@@ -15,11 +15,11 @@
   &nbsp;&nbsp;
 </p>
 
-<p id='intro'>
+<!--  Intro Section -->
 Hi there 👋 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat, nulla quis fermentum eleifend, nibh urna tincidunt quam, vel sodales diam sem in augue. Maecenas lacinia mi enim, ac fermentum
 
 Sharing my favorite tracks and artists. Welcome to follow my playlist.
-</p>
+<!--  Intro Section -->
 
 <br />
 
