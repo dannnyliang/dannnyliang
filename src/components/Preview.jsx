@@ -13,7 +13,10 @@ function Preview(props) {
     <div className={className}>
       <Box className="profile-section">Github Profile</Box>
       <Paper className="readme-section" variant="outlined">
-        <div dangerouslySetInnerHTML={{ __html: marked(readmeContent) }} />
+        <div
+          className="readme"
+          dangerouslySetInnerHTML={{ __html: marked(readmeContent) }}
+        />
       </Paper>
     </div>
   );
@@ -34,6 +37,20 @@ const StyledPreview = styled(Preview)`
   .readme-section {
     width: 854px;
     padding: 24px;
+  }
+
+  .readme {
+    font-size: 14px;
+    a {
+      text-decoration: none;
+    }
+    a:visited {
+      color: blue;
+    }
+    p {
+      margin-top: 0;
+      margin-bottom: 16px;
+    }
   }
 `;
 
