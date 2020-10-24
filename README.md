@@ -21,9 +21,11 @@
 
 
 
-Hi there 👋 Client Version
+
+Hi there 👋
 
 Sharing my favorite tracks and artists. Welcome to follow my playlist.
+
 
 
 
