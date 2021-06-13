@@ -1,4 +1,6 @@
-<!--  Intro Section -->
+
+  <!--  Intro Section -->
+  
 
 <p>
   <img width="100%" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/stair.jpeg">
@@ -20,8 +22,9 @@
 
 Hi there 👋👋👋
 
-Sharing my favorite tracks and artists. Welcome to follow my playlist.
+Sharing my favorite tracks and artists. Welcome to follow my playlist..
 
 
-<!--  Intro Section -->
+
+  <!--  Intro Section -->
   
