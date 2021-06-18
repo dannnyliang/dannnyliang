@@ -2,17 +2,18 @@
   <!--  Intro Section -->
   
   
+  
 
 <p>
   <img width="100%" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/stair.jpeg">
 </p>
 <p align='center'>
-  <a href="https://www.facebook.com/dannnyliang">
-    <img height="30" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/facebook.png">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/11167957984?si=FiATh_i1SpydFtFGEsagFA">
     <img height="30" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/spotify.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dannnyliang">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@youchenliang">
@@ -27,6 +28,7 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist..
 
 
 
+  
   
   <!--  Intro Section -->
   
@@ -60,8 +62,8 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist..
   <p align='center'>
   <ruby>
     <!--  No.4 -->
-      <a href="https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4">
-        <img width="140" src="https://i.scdn.co/image/ab6761610000e5eb644b873c317c2f47a8412eff">
+      <a href="https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP">
+        <img width="140" src="https://i.scdn.co/image/ab6761610000e5eb288ac05481cedc5bddb5b11b">
       </a><!--  No.2 -->
       <a href="https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra">
         <img width="170" src="https://i.scdn.co/image/c49a8be88973ff202ab1db0b255a9fdfea0bef2a">
@@ -69,15 +71,15 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist..
       <a href="https://open.spotify.com/artist/3XieHCiB2HVN8ZRDSsfkaj">
         <img width="200" src="https://i.scdn.co/image/ab67616d0000b27372e42884ca604fb9c05ed5a2">
       </a><!--  No.3 -->
-      <a href="https://open.spotify.com/artist/10otRXsgnJi3lweFUoRSSS">
-        <img width="170" src="https://i.scdn.co/image/240c765bc4a997d8bd3fa7a63258d87710662eb5">
-      </a><!--  No.5 -->
       <a href="https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL">
-        <img width="140" src="https://i.scdn.co/image/ab67616d0000b273d3ab5d282b91fab8bd7a2796">
+        <img width="170" src="https://i.scdn.co/image/ab67616d0000b273d3ab5d282b91fab8bd7a2796">
+      </a><!--  No.5 -->
+      <a href="https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c">
+        <img width="140" src="https://i.scdn.co/image/a37219bd54947810608b3f5f23241968f64d8066">
       </a>
     <rt>🎗 🥈 🥇 🥉 🎗</rt>
   </ruby>
   </p>
 
-  <p align='center'><em><a href='https://open.spotify.com/artist/3XieHCiB2HVN8ZRDSsfkaj'>葡萄不憤怒</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra'>理想混蛋</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/10otRXsgnJi3lweFUoRSSS'>House Rulez</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4'>Trash</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL'>hue</a></em></p>
+  <p align='center'><em><a href='https://open.spotify.com/artist/3XieHCiB2HVN8ZRDSsfkaj'>葡萄不憤怒</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra'>理想混蛋</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/6Ahi2PpG3gEX5M1HuQiQGL'>hue</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'>Maroon 5</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c'>Pomplamoose</a></em></p>
   
