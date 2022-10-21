@@ -5,6 +5,7 @@
   
   
   
+  
 
 <p>
   <img width="100%" src="https://raw.githubusercontent.com/dannnyliang/dannnyliang/master/assets/images/stair.jpeg">
@@ -34,6 +35,7 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist.
   
   
   
+  
   <!--  Intro Section -->
   
   <br />
@@ -41,49 +43,49 @@ Sharing my favorite tracks and artists. Welcome to follow my playlist.
   <p align='center'>
   <ruby>
   <!--  No.4 -->
-    <a href="https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR">
-      <img width="140" src="https://i.scdn.co/image/ab67616d0000b27393c9a39a85052458bdafc913">
+    <a href="https://open.spotify.com/track/0Gw3VYIA5RbpZVnOYUiLsP">
+      <img width="140" src="https://i.scdn.co/image/ab67616d0000b273114c2e3936ea6d4b65904bb5">
     </a><!--  No.2 -->
-    <a href="https://open.spotify.com/track/5NwtQOZ3nlPXqvodEIoyt6">
-      <img width="170" src="https://i.scdn.co/image/ab67616d0000b273e86ddd0ab18ff3227c1e63ea">
+    <a href="https://open.spotify.com/track/4pGLa8VkIYB0zntX0QcIUj">
+      <img width="170" src="https://i.scdn.co/image/ab67616d0000b27363f276fcf8f0a03932c320c7">
     </a><!--  No.1 -->
-    <a href="https://open.spotify.com/track/01fjE2DnAG6rVGP2iZeZkQ">
-      <img width="200" src="https://i.scdn.co/image/ab67616d0000b273a3e3e03cebc211126f16e091">
+    <a href="https://open.spotify.com/track/5qNFRouKz7tBylFkPlJcFC">
+      <img width="200" src="https://i.scdn.co/image/ab67616d0000b2738d34e30551fea2948d3b4a40">
     </a><!--  No.3 -->
-    <a href="https://open.spotify.com/track/21bty2KT6tMsceRDsuORBy">
-      <img width="170" src="https://i.scdn.co/image/ab67616d0000b273b7fd1b534c02e2426b63b345">
+    <a href="https://open.spotify.com/track/6NCfmusgb32bfEOomGUH2Y">
+      <img width="170" src="https://i.scdn.co/image/ab67616d0000b2738d34e30551fea2948d3b4a40">
     </a><!--  No.5 -->
-    <a href="https://open.spotify.com/track/5cLC6HJUMx7lgz3m7x7UtP">
-      <img width="140" src="https://i.scdn.co/image/ab67616d0000b2736cf5ad0d51fd4ba1a49779a5">
+    <a href="https://open.spotify.com/track/0vgLHS2vF5u0HPYaFpmoJg">
+      <img width="140" src="https://i.scdn.co/image/ab67616d0000b2738e058f28e7f202e077780bab">
     </a>
     <rt>🎗 🥈 🥇 🥉 🎗</rt>
   </ruby>
   </p>
-  <p align='center'><a href='https://open.spotify.com/track/01fjE2DnAG6rVGP2iZeZkQ'>Sunny Day</a> - <em>采子, 文慧如</em></p><p align='center'><a href='https://open.spotify.com/track/5NwtQOZ3nlPXqvodEIoyt6'>溫度</a> - <em>吳卓源, 壞特 ?te</em></p><p align='center'><a href='https://open.spotify.com/track/21bty2KT6tMsceRDsuORBy'>No Silhouette</a> - <em>DPR IAN</em></p><p align='center'><a href='https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR'>A Long Dream 긴 꿈</a> - <em>SE SO NEON</em></p><p align='center'><a href='https://open.spotify.com/track/5cLC6HJUMx7lgz3m7x7UtP'>5:10a.m.</a> - <em>傻子與白痴</em></p>
+  <p align='center'><a href='https://open.spotify.com/track/5qNFRouKz7tBylFkPlJcFC'>星期七</a> - <em>June Pan, 知更</em></p><p align='center'><a href='https://open.spotify.com/track/4pGLa8VkIYB0zntX0QcIUj'>迷惘美</a> - <em>李優URIKO, 熊仔</em></p><p align='center'><a href='https://open.spotify.com/track/6NCfmusgb32bfEOomGUH2Y'>櫥窗模特 - Remix</a> - <em>June Pan, 青醬肉絲</em></p><p align='center'><a href='https://open.spotify.com/track/0Gw3VYIA5RbpZVnOYUiLsP'>不小心愛上你 Accidentally in Love ft. 魏如萱 waa wei</a> - <em>甜約翰 Sweet John, 魏如萱</em></p><p align='center'><a href='https://open.spotify.com/track/0vgLHS2vF5u0HPYaFpmoJg'>愛是我們必經的辛苦</a> - <em>Crispy脆樂團</em></p>
   
   <br />
   <h1 align="center">Top Artists</h1>
   <p align='center'>
   <ruby>
     <!--  No.4 -->
-      <a href="https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI">
-        <img width="140" src="https://i.scdn.co/image/ab67616d0000b2733d74c419c9a4b135728744cb">
+      <a href="https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3">
+        <img width="140" src="https://i.scdn.co/image/ab6761610000e5eb897744452224f00957dd1110">
       </a><!--  No.2 -->
-      <a href="https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK">
-        <img width="170" src="https://i.scdn.co/image/ab6761610000e5ebc17eaca438055c4f8d80c28c">
+      <a href="https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM">
+        <img width="170" src="https://i.scdn.co/image/ab6761610000e5eb0205b47f8cafefc82e6e01c7">
       </a><!--  No.1 -->
-      <a href="https://open.spotify.com/artist/5cqDJ1LV02tRyfWJoijkpZ">
-        <img width="200" src="https://i.scdn.co/image/ab6761610000e5eb861e5bdd2af867863f155408">
+      <a href="https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw">
+        <img width="200" src="https://i.scdn.co/image/ab6761610000e5eba3a536a334bcf18a3312206e">
       </a><!--  No.3 -->
-      <a href="https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg">
-        <img width="170" src="https://i.scdn.co/image/ab6761610000e5ebc3d0ba09246921052d2e6b6d">
+      <a href="https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1">
+        <img width="170" src="https://i.scdn.co/image/ab6761610000e5eb2e5edcf62d5a1d78881d3361">
       </a><!--  No.5 -->
-      <a href="https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c">
-        <img width="140" src="https://i.scdn.co/image/ab6761610000e5ebaecf2da60e96ee6d88940f36">
+      <a href="https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR">
+        <img width="140" src="https://i.scdn.co/image/ab6761610000e5eb6f827622cb556e8d6b0fe08d">
       </a>
     <rt>🎗 🥈 🥇 🥉 🎗</rt>
   </ruby>
   </p>
 
-  <p align='center'><em><a href='https://open.spotify.com/artist/5cqDJ1LV02tRyfWJoijkpZ'>PUZZLEMAN</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK'>椅子樂團</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg'>葛仲珊</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI'>阿肆</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c'>Pomplamoose</a></em></p>
+  <p align='center'><em><a href='https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw'>Crispy脆樂團</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM'>YELLOW黃宣</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1'>Tokimeki Records</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3'>June Pan</a></em></p><p align='center'><em><a href='https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR'>Anna hisbbuR</a></em></p>
   
